@@ -38,5 +38,3 @@ Im study at Assumption College right now
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sol4rxd&show_icons=true&locale=en&layout=compact" alt="sol4rxd" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sol4rxd&show_icons=true&locale=en" alt="sol4rxd" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sol4rxd&" alt="sol4rxd" /></p>
