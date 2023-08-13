@@ -29,8 +29,6 @@ Im study at Assumption College right now
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sol4rxd&label=Profile%20views&color=0e75b6&style=flat" alt="sol4rxd" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy%22%3E<img src="https://github-profile-trophy.vercel.app/?username=sol4rxd" alt="sol4rxd" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
