@@ -3,7 +3,7 @@
 ![Profile GIF](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 ## About Me
-I'm currently a student at Assumption College, located in Bangkok. I'm passionate about various technologies and enjoy exploring different fields.
+I'm currently a student at Kasetsart University, located in Bangkok. I'm passionate about various technologies and enjoy exploring different fields.
 
 - 🌍 Based in Bangkok
 - ✉️ Reach me at [watcharawish.ons@gmail.com](mailto:watcharawish.ons@gmail.com)
